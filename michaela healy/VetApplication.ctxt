@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=animalList
+comment1.target=void\ addAnAnimal(Vet)
+comment10.params=animalList
+comment10.target=void\ option6d(Vet)
+comment11.params=animalList
+comment11.target=void\ lenTime(Vet)
+comment2.params=animalList
+comment2.target=void\ removeAnAnimal(Vet)
+comment3.params=animalList
+comment3.target=void\ checkIfEmpty(Vet)
+comment4.params=animalList
+comment4.target=void\ checkIfFull(Vet)
+comment5.params=animalList
+comment5.target=void\ searchAndAddPet(Vet)
+comment6.params=animalList
+comment6.target=void\ listAll(Vet)
+comment7.params=animalList
+comment7.target=void\ option6a(Vet)
+comment8.params=animalList
+comment8.target=void\ option6b(Vet)
+comment9.params=animalList
+comment9.target=void\ option6c(Vet)
+numComments=12
